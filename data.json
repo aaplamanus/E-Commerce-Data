@@ -1,6 +1,6 @@
 const Data = [
     {
-        "name": "Fortune Sunlite Refined Sunflower Oil",
+        "name": "Fortune Sunlite Refined Sunflower Oil", #1
         "description": "Fortified, Light and healthy that is easy to digest, Rich in vitamins, which keeps skin healthy, Strengthens the immune system, Good for the heart, Packaging may vary as per availability",
         "category": "Oils" ,
         "old_price" : "" ,
@@ -12,15 +12,27 @@ const Data = [
         "createdAt": "" ,
     },
     {
-        "name": "",
-        "description":  "",
-        "category": "" ,
-        "price": "" ,
+        "name": "Fortune Premium Kachi Ghani Pure Mustard Oil, PET Bottle", #2
+        "description": "Made from Cold Pressed (Kachi Ghani) Technology using Finest Mustard Seeds - Rich in Omega 3 & 6 that boost Immunity, Rich in Vitamins A,E and Beta Carotene, Naturally Cholesterol Free, High in PUFA (Poly Unsaturated Fatty Acids), High Pungency and Strong Aroma - Mustard Oil with Long Shelf Life",
+        "category": "Oils" ,
+        "old_price" : "" ,
+        "new_price": "" ,
         "imageURL": "" ,
         "stockQuantity": "" ,
         "weight":"",
-        "discount":  "" , // Discount as percentage
+        "discount":  "" ,
         "createdAt": "" ,
     },
-   
+    {
+        "name": "",
+        "description": "",
+        "category": "Oils" ,
+        "old_price" : "" ,
+        "new_price": "" ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    }, 
 ]
