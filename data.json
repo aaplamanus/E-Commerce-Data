@@ -264,9 +264,10 @@ const Data = [
         "discount":  "" ,
         "createdAt": "" ,
     },
+    
     #Ghee
     {
-        "name": "Mother Dairy Cow Ghee Pouch", #23
+        "name": "Mother Dairy Cow Ghee Pouch", #1
         "description": "Country of Origin: India, Mother Dairy cow ghee is believed to be the best for human consumption. Organic: No, number_of_pieces:1, ingredients:cow milk, material features:vegetarian, item form:liquid",
         "category": "Ghee" ,
         "old_price" : 685 ,
@@ -278,7 +279,7 @@ const Data = [
         "createdAt": "" ,
     },
     {
-        "name": "Gowardhan Pure Cow Ghee", #24
+        "name": "Gowardhan Pure Cow Ghee", #2
         "description": "Delicious and Tasty, Country of Origin: India, Material Features: Vegetarian; Item Form: Liquid; Ingredients: 100 Percent Pure Clarified Milk Fat",
         "category": "Ghee" ,
         "old_price" : 745 ,
@@ -290,7 +291,7 @@ const Data = [
         "createdAt": "" ,
     },
     {
-        "name": "Aashirvaad Svasti Pure Cow Ghee - Desi Ghee with Rich Aroma", #25
+        "name": "Aashirvaad Svasti Pure Cow Ghee - Desi Ghee with Rich Aroma", #3
         "description": "Aashirvaad Svasti Pure Cow Ghee is a premium ghee made with a special SloCook process, This desi ghee is prepared by slow cooking it for about 3.5 hours over gradually increased temperatures, The SloCook process gives the ghee its rich aroma, golden granular texture and consistent quality",
         "category": "Ghee" ,
         "old_price" : 725 ,
@@ -302,7 +303,7 @@ const Data = [
         "createdAt": "" ,
     },
     {
-        "name": "Everyday Nestle Shahi Ghee, Carton", #26
+        "name": "Everyday Nestle Shahi Ghee, Carton", #5
         "description": "Country of Origin: India, Has a pleasing aroma and rich granular texture, Lends itself beautifully to varied Indian cuisines, Packaged using processes to retain the flavour and aroma",
         "category": "Ghee" ,
         "old_price" : 630 ,
@@ -314,7 +315,7 @@ const Data = [
         "createdAt": "" ,
     },
     {
-        "name": "Patanjali Cow's Ghee", #27
+        "name": "Patanjali Cow's Ghee", #6
         "description": "Ghee calms Pitta and Vata. Hence, it is ideal for people with Vata-Pitta body type and for those suffering from Vata and Pitta imbalance disorders, Oral consumption of Cow Ghee to relieve dryness. Organic: Yes, Cow ghee is better for heart compares to other buffalo ghee",
         "category": "Ghee" ,
         "old_price" : 665 ,
@@ -326,7 +327,7 @@ const Data = [
         "createdAt": "" ,
     },
     {
-        "name": "",
+        "name": "", 
         "description": "",
         "category": "" ,
         "old_price" :  ,
