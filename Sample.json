@@ -1,0 +1,63 @@
+const Data = [
+    #Oils
+    {
+        "name": "Fortune Sunlite Refined Sunflower Oil", #1
+        "description": "Fortified, Light and healthy that is easy to digest, Rich in vitamins, which keeps skin healthy, Strengthens the immune system, Good for the heart, Packaging may vary as per availability",
+        "category": "Oils" ,
+        "old_price" : 180 ,
+        "new_price": 152 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+    {
+        "name": "Fortune Premium Kachi Ghani Pure Mustard Oil", #2
+        "description": "Made from Cold Pressed (Kachi Ghani) Technology using Finest Mustard Seeds - Rich in Omega 3 & 6 that boost Immunity, Rich in Vitamins A,E and Beta Carotene, Naturally Cholesterol Free, High in PUFA (Poly Unsaturated Fatty Acids), High Pungency and Strong Aroma - Mustard Oil with Long Shelf Life",
+        "category": "Oils" ,
+        "old_price" : 220 ,
+        "new_price": 173 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+    {
+        "name": "Fortune Oil, Soyabean Health", #3
+        "description": "ndia’s No.1 Oil - Healthy Refined oil for your Family, Fortified with the goodness of Vitamin A and Vitamin D, Rich in Omega 3 – helps keep Heart healthy*, Contains PUFA – which helps in reducing cholesterol levels, Helps maintain Strong Bones*, Adds extra Flavour to your favourite food.",
+        "category": "Oils" ,
+        "old_price" : 165 ,
+        "new_price": 152 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    }, 
+    {
+        "name": "Fortune Rice Bran Health Oil", #4
+        "description": "Cholesterol lowering, heart healthy cooking oil, Improves hdl and ldl ratio, healthier heart, Balanced pufa and mufa ratio, cleaner blood vessels, Rich in Natural Antioxidants: Boosts Immunity, [Commonly searched topics] rice bran oil, oil, edible oil, cooking oil, heart healthy oil",
+        "category": "Oils" ,
+        "old_price" : 169 ,
+        "new_price": 153 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+    {
+        "name": "Fortune Pehli Dhaar First Pressed Kachi Ghani Mustard Oil", #5
+        "description": "Premium mustard oil at affordable price",
+        "category": "Oils" ,
+        "old_price" : 230 ,
+        "new_price": 201 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    }
+]
