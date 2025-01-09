@@ -1,5 +1,5 @@
 const Data = [
-    #Oils
+    #Oils ( 1L Per Item ( 1000ml ))
     {
         "name": "Fortune Sunlite Refined Sunflower Oil", #1
         "description": "Fortified, Light and healthy that is easy to digest, Rich in vitamins, which keeps skin healthy, Strengthens the immune system, Good for the heart, Packaging may vary as per availability",
@@ -60,7 +60,7 @@ const Data = [
         "discount":  "" ,
         "createdAt": "" ,
     },
-    #Ghee
+    #Ghee ( 1L Per Item ( 1000ml ))
     {
         "name": "Mother Dairy Cow Ghee Pouch", #1
         "description": "Country of Origin: India, Mother Dairy cow ghee is believed to be the best for human consumption. Organic: No, number_of_pieces:1, ingredients:cow milk, material features:vegetarian, item form:liquid",
@@ -109,5 +109,65 @@ const Data = [
         "discount":  "" ,
         "createdAt": "" ,
     },
-    
+    #Powdered Masalas ( 100g per Item ))))
+    {
+        "name": "Tata Sampann Turmeric Powder With Natural Oils", #1
+        "description": "Highly Aromatic Turmeric: Enjoy the rich taste of Tata Sampann Turmeric Powder in all your favourite dishes, Minimum 3% Curcumin: Every pack carries the promise of an active ingredient called curcumin, Sampann Goodness: These spices have the natural oils in the spices intact thus offering you sampann goodness, Quality Guaranteed: Tata Sampann Spices contain no added preservatives",
+        "category": "Masala" ,
+        "old_price" : 50 ,
+        "new_price": 48 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+    {
+        "name": "Tata Sampann Kashmiri Red Chilli Powder with Natural Oils", #2
+        "description": "NATURAL RED COLOUR: Tata Sampann Kashmiri Red Chilli Powder comes with an assurance of natural red colour that adds richness to your dishes, WITH NATURAL OILS: Tata Sampann spices are made from whole spices which retain native natural oil, thus offering Sampann goodness, CAREFULLY SOURCED: Each chilli that goes into Tata Sampann Kashmiri Red Chilli Powder is carefully sourced from the choicest of farms, QUALITY GUARANTEED: Tata Sampann Spices with the trust of Tata",
+        "category": "Masala" ,
+        "old_price" : 140 ,
+        "new_price": 123 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+    {
+        "name": "Tata Sampann Chilli Powder with Natural Oils", #3
+        "description": "Highly Aromatic Chilli: Enjoy the rich taste of Tata Sampann Chilli Powder in all your favourite dishes, Contains Capsaicin: Every pack carries the promise of an active ingredient called capsaicin, Sampann Goodness: These spices have the natural oils in the spices intact thus offering you sampann goodness, Quality Guaranteed: Tata Sampann Spices contain no added preservatives",
+        "category": "Masala" ,
+        "old_price" : 50 ,
+        "new_price": 48 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+    {
+        "name": "Tata Sampann Coriander Powder With Natural Oils,", #4
+        "description": "Top Quality Coriander: Enjoy the rich taste of Tata Sampann Coriander Powder in all your favourite dishes, Healthy Choice: Coriander gets its properties and taste from its naturally occuring volatile oils, Sampann Goodness: These spices have the natural oils in the spices intact thus offering you sampann goodness, Quality Guaranteed: Tata Sampann Spices contain no added preservatives, Also Try: Try Tata Sampann Red Chilli Powder, Tata Sampann Turmeric Powder and Tata Sampann Kasuri Methi",
+        "category": "Masala" ,
+        "old_price" : 43 ,
+        "new_price": 39 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+    {
+        "name": "MAGGI Masala-ae-Magic Vegetable Masala", #5
+        "description": "MAGGI Masala-ae-Magic is a perfect blend of 10 choicest, aromatic and roasted spices., It is the secret ingredient that makes your everyday vegetables extraordinarily tasty., Now your kids will fall in love with everyday vegetables., Use in a variety of dishes like Sabzi, Dal, Paneer, Pasta & more., Each serve (2g) provides 15% of your daily requirement of Vitamin A, Iron and Iodine.",
+        "category": "Masala" ,
+        "old_price" : 5 ,
+        "new_price": 4.5 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
 ]
