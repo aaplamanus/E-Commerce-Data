@@ -98,7 +98,7 @@ const Data = [
         "createdAt": "" ,
     },
     {
-        "name": "Everyday Nestle Shahi Ghee, Carton", #5
+        "name": "Everyday Nestle Shahi Ghee, Carton", #4
         "description": "Country of Origin: India, Has a pleasing aroma and rich granular texture, Lends itself beautifully to varied Indian cuisines, Packaged using processes to retain the flavour and aroma",
         "category": "Ghee" ,
         "old_price" : 630 ,
@@ -109,6 +109,20 @@ const Data = [
         "discount":  "" ,
         "createdAt": "" ,
     },
+    {
+        "name": "Patanjali Cow's Ghee", #5
+        "description": "Ghee calms Pitta and Vata. Hence, it is ideal for people with Vata-Pitta body type and for those suffering from Vata and Pitta imbalance disorders, Oral consumption of Cow Ghee to relieve dryness. Organic: Yes, Cow ghee is better for heart compares to other buffalo ghee",
+        "category": "Ghee" ,
+        "old_price" : 665 ,
+        "new_price": 665 ,
+        "imageURL": "" ,
+        "stockQuantity": "" ,
+        "weight":"",
+        "discount":  "" ,
+        "createdAt": "" ,
+    },
+
+    
     #Powdered Masalas ( 100g per Item ))))
     {
         "name": "Tata Sampann Turmeric Powder With Natural Oils", #1
